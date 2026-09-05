@@ -381,6 +381,237 @@ I'm a passionate **Flutter Developer** with a mission to create **exceptional mo
 ### 💡 *"Code is poetry — make it elegant, make it meaningful."*
 
 <br>
+<div align="center">
+  
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mina%20Romany&fontSize=90&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Mobile%20Architect&descAlignY=55" width="100%" />
+
+<!-- ANIMATED TYPING EFFECT -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+the+Future+of+Mobile+Apps;Clean+Code+%7C+Great+UX;Flutter+%7C+Dart+%7C+Firebase;Always+Learning+%7C+Always+Growing;Welcome+to+My+Digital+Space!)](https://git.io/typing-svg)
+
+<!-- ANIMATED SOCIAL BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-romany-248315319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="mailto:minaromanyfawzy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MinaRomany-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<!-- VISITOR COUNTER WITH ANIMATION -->
+<img src="https://komarev.com/ghpvc/?username=MinaRomany-dev&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<!-- ANIMATED PROFILE CARD -->
+<table align="center">
+<tr>
+<td width="60%">
+
+> ### 🚀 Mobile Developer | Problem Solver | Tech Enthusiast
+
+Passionate **Flutter Developer** crafting **exceptional mobile experiences** with a focus on **clean architecture** and **scalable solutions**. I believe in writing code that's not just functional, but elegant and future-proof.
+
+- 🔭 Currently working on **Enterprise-level Flutter applications**
+- 🌱 Learning **Advanced BLoC patterns** & **System Design**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Flutter, Dart, Mobile Architecture**
+- ⚡ Fun fact: I love **Manga** & **Gaming** in my free time
+
+</td>
+<td width="40%">
+
+<!-- ANIMATED CODING GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Stack
+
+<!-- ANIMATED SKILLS BANNER -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,postman,vscode,androidstudio,figma,cloudflare" />
+</p>
+
+<!-- ANIMATED TECH CARDS -->
+<div align="center">
+  
+| **Frontend** | **Backend** | **Database** | **Tools** |
+|--------------|-------------|--------------|-----------|
+| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1A1A2E" /> <br> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1A1A2E" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1A1A2E" /> <br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1A1A2E" /> | <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1A1A2E" /> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1A1A2E" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1A2E" /> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1A2E" /> |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Current Focus
+
+<!-- ANIMATED PROGRESS BARS -->
+<div align="center">
+
+<img src="https://progress-bar.dev/95/?title=Flutter&width=400&color=02569B" />
+<img src="https://progress-bar.dev/90/?title=Dart&width=400&color=0175C2" />
+<img src="https://progress-bar.dev/85/?title=Clean%20Architecture&width=400&color=6C5CE7" />
+<img src="https://progress-bar.dev/88/?title=BLoC%20State%20Management&width=400&color=00B894" />
+<img src="https://progress-bar.dev/80/?title=Firebase&width=400&color=FFCA28" />
+<img src="https://progress-bar.dev/75/?title=System%20Design&width=400&color=FF6B6B" />
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40"> Featured Projects
+
+<!-- ANIMATED PROJECT CARDS -->
+<div align="center">
+
+| 📰 **News App** | 🛒 **Elite Shop** | 🎫 **Employee Support** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" /> | <img src="https://img.shields.io/badge/Status-Development-informational?style=flat-square" /> |
+| `Flutter` `Dio` `API` | `Flutter` `BLoC` `E-Commerce` | `Flutter` `Supabase` `Real-time` |
+| [🔗 View](https://github.com/MinaRomany-dev/News-app) | [🔗 View](https://github.com/MinaRomany-dev/Elite_Shop) | [🔗 View](https://github.com/MinaRomany-dev/employee_support_system) |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"> GitHub Analytics
+
+<!-- ANIMATED STATS CARDS -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MinaRomany-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaRomany-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&langs_count=8" width="49%" />
+
+<br>
+
+<!-- ANIMATED STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaRomany-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="70%" />
+
+<br>
+
+<!-- ANIMATED CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinaRomany-dev&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect & Collaborate
+
+<!-- ANIMATED CONNECT BANNER -->
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-romany-248315319/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="mailto:minaromanyfawzy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MinaRomany-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%">
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40"> 2026 Roadmap
+
+<!-- ANIMATED ROADMAP -->
+<div align="center">
+  
+| Quarter | Focus | Goal |
+|---------|-------|------|
+| **Q1** | 🏗️ **System Design** | Master scalable app architecture |
+| **Q2** | 🧪 **Testing Strategy** | Implement comprehensive testing |
+| **Q3** | 📱 **Native Integration** | Master platform-specific features |
+| **Q4** | 🚀 **Open Source** | Contribute to 5+ major projects |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
+### 💡 *"Code is poetry — make it elegant, make it meaningful."*
+
+<!-- ANIMATED SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/minaromany)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/minaromany)
+
+<br>
+
+⭐️ **Star this profile if you like it!** ⭐️
+
+</div>
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake animation" />
 
