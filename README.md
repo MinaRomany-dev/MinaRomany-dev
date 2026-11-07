@@ -20,7 +20,7 @@
 </p>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=MinaRomany-dev&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MinaRomany-dev-new&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" />
 <br>
 
 <!-- ANIMATED DIVIDER -->
